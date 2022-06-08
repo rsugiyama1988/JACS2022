@@ -1,3 +1,2 @@
-"# JACS2022_2" 
-"# JACS2022_3" 
-"# JACS2022_3" 
+### Scripts used for "The biosynthetic landscape of triceptides reveals radical SAM enzymes that catalyze cyclophane formation on Tyr and His-containing motifs." by Sugiyama et al., 2022.
+Questions about the scripts and analyses can be addressed to [Ryosuke Sugiyama](mailto:zy105shsh@gmail.com). For any general questions concerning the manuscript, please contact [Brandon I Morinaka](mailto:phambi@nus.edu.sg).
