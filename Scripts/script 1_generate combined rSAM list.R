@@ -15,7 +15,6 @@ library(rentrez)
 #set_entrez_key("xxx") # Activate API key
 
 path1 <- 'xxx/JACS2022/Demo/' #set directory
-path1 <- 'D:/OneDrive/Aica paper/JACS2022/Demo/' #set directory
 
 
 ##### Processing of UniProt accessions #####
